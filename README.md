@@ -3,10 +3,14 @@
 ### deneme 2
 
 __bold__
+
 _italic_
+
 ~~This was mistaken text~~
+
 **This text is _extremely_ important**
 ***All this text is important***
+
 (quote) In the words of Abraham Lincoln:
 
 > Pardon my French
