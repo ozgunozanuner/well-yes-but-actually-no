@@ -20,7 +20,7 @@ First list item
      - Second nested list item
      
 - [x] Finish my changes
-- [ ] Push my commits to GitHub
+   - [ ] Push my commits to GitHub
 - [ ] Open a pull request
 
 - [ ] deneme
