@@ -1,2 +1,4 @@
 # well-yes-but-actually-no
-#deneme
+# deneme
+deneme 2
+-[] deneme
