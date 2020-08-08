@@ -55,3 +55,10 @@ To include a pipe | as content within your cell, use a \ before the pipe:
 | ---      | ---       |
 | Backtick | `         |
 | Pipe     | \|        |
+
+
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
